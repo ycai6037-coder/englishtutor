@@ -1,0 +1,16 @@
+{
+  "name": "ai-english-tutor-pro",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A professional AI English tutor powered by large language models, deployed on Vercel",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["english", "learning", "ai", "tutor", "vercel", "serverless"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
